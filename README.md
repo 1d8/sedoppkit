@@ -1,5 +1,3 @@
-# SE Dopp Kit
-
 ![](./imgs/header.png)
 
 The Python SE Dopp Kit is a social engineering toolkit with many purposes. It contains 5 different modules designed to be of assistance in different scenarios. For example, there is a section dedicated to annoyance which will help you annoy your target by sms, call, or email bombing them. There's also the recon module which would help gather more information about a target. 
