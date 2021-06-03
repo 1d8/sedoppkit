@@ -1,0 +1,6 @@
+# pip install -r requirements.txt
+
+colorama
+beautifulsoup4
+requests
+tabulate
